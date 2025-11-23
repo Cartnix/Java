@@ -42,7 +42,7 @@ public class Maze {
         char target = maze[newX][newY];
 
         if (newX == MonsterX && newY == MonsterY) {
-            System.out.println("👾 Вы встретили монстра!");
+            System.out.println("Вы встретили монстра!");
             Monster monster = new Monster(1);
             Battle battle = new Battle(player, monster);
             battle.start();
