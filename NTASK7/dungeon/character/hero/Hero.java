@@ -1,4 +1,10 @@
-package character;
+package dungeon.character.hero;
+
+import dungeon.character.Character;
+import dungeon.item.Item;
+import dungeon.exception.InventoryFullException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Hero extends Character {
     private List<Item> inventory;

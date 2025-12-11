@@ -1,6 +1,6 @@
-package character;
+package dungeon.character.hero;
 
-import strategy.MeleeAttack;
+import dungeon.strategy.MeleeAttack;
 
 public class Warrior extends Hero {
     public Warrior(String name) {

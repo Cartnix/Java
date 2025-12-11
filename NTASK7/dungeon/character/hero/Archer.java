@@ -1,6 +1,6 @@
-package character;
+package dungeon.character.hero;
 
-import strategy.RangedAttack;
+import dungeon.strategy.RangedAttack;
 
 public class Archer extends Hero {
     public Archer(String name) {

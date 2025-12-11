@@ -1,4 +1,9 @@
-package character;
+package dungeon.character;
+
+import dungeon.strategy.AttackStrategy;
+import dungeon.observer.Observer;
+import java.util.ArrayList;
+import java.util.List;
 
 public abstract class Character {
     protected String name;

@@ -1,6 +1,6 @@
-package character;
+package dungeon.character.hero;
 
-import strategy.MagicAttack;
+import dungeon.strategy.MagicAttack;
 
 public class Mage extends Hero {
     public Mage(String name) {

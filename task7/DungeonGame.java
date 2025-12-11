@@ -16,7 +16,7 @@ public class DungeonGame {
     
     public static void main(String[] args) {
         System.out.println("╔════════════════════════════════════════╗");
-        System.out.println("║   🏰 WELCOME TO THE DUNGEON! 🏰         ║");
+        System.out.println("║   🏰 WELCOME TO THE DUNGEON! 🏰        ║");
         System.out.println("╚════════════════════════════════════════╝\n");
         
         
